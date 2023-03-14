@@ -1,8 +1,7 @@
-import { Button, color, Flex, Text } from "@chakra-ui/react";
+import { Button, Flex, Text } from "@chakra-ui/react";
 import "./App.css"
 
 import React, { useState } from "react";
-import { transform } from "framer-motion";
 
 export default function App() {
   const [counter, setCounter] = useState(0);
