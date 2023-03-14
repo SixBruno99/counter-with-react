@@ -1,5 +1,4 @@
 import { Button, Flex, Text } from "@chakra-ui/react";
-import "./App.css"
 
 import React, { useState } from "react";
 
